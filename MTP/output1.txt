@@ -1,0 +1,4 @@
+Rust is an iron oxide, a usually reddish brown oxide formed by the ++reaction++ of iron ++++and oxygen in the presence of water or air moisture. Several forms of rust are distinguishable both visually and by spectroscopy, and form under different circumstances.
+Given sufficient time, any iron mass, in the presence of water and oxygen, could ++^eventually convert entirely to rust.
+STOP
+Other forms of rust exist, like the result of reactions between iron and chloride in an environment deprived of oxygen. Rebar used in underwater concrete pillars, which generates green rust, is an example.
